@@ -41,9 +41,42 @@
 <article id = "main"> 
 
 <h2>Prices</h2>
-	<p>Second-Hand Sticks is a new and up coming store that specializes in the selling of reused golf clubs. The game of golf continues to expand and in order to keep up with your competition, having the right equipment is vital to success. </p>
+	<p>Here at Second-Hand Sticks we run a unique pricing system that you will see below. The brand of the club does not matter since all of them sell, for relatively the same price.</p>
+	<p>The two things that are considered when buying or exchanging new clubs are the condition and the age of the club.</p>
+	<p>Below is the table to better understand the pricing system.</p>
 
-	<p>Whether you're a weekend warrior, or someone looking to take your game to the next level, we have all the equipment for your needs. While carrying most household brands, we do specialize in Titleist, Taylormade, and Callaway. </p>
+	<table class="Pricing">
+		<tr>
+			<th>Years Old</th>
+			<th>Mint</th>
+			<th>Slightly Used</th>
+			<th>Seen the Sod</th>
+		 </tr>
+		<tr>
+			<th>0-1 Years Old</th>
+				<td></td>
+				<td></td>
+				<td></td>
+		 </tr>
+		<tr>
+			<th>2-3 Years Old</th>
+				<td></td>
+				<td></td>
+				<td></td>
+		 </tr>
+		<tr>
+			<th>4-7 Years Old</th>
+				<td></td>
+				<td></td>
+				<td></td>
+		 </tr>
+		<tr>
+			<th>8+ Years Old</th>
+				<td></td>
+				<td></td>
+				<td></td>
+		 </tr>
+	</table>
 
 
 </article> <!-- end main -->
